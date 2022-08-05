@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/prettyBcoding/Order-Summary)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/prettyBcoding/Order-Summary
+- Live Site URL: https://prettybcoding.github.io/Order-Summary
 
 ## My process
 
