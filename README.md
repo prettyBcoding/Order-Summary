@@ -46,7 +46,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [Google](https://www.google.com) - This helped me to understand some keywords.
+- [Google](https://www.google.com) - I just did some research for some keywords.
 
 ## Author
 
