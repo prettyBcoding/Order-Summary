@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/prettyBcoding/Order-Summary)
+- Solution URL: (https://github.com/prettyBcoding/Order-Summary)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
