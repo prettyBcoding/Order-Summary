@@ -1,0 +1,129 @@
+body {
+  background-color: #e0e8ff;
+  background-image: url(images/pattern-background-desktop.svg);
+  background-repeat: no-repeat;
+  font-family: 'Red Hat Display', sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  text-align: center;
+}
+
+main {
+  background-color: #fff;
+  border-radius: 1rem;
+  max-width: 27rem;
+}
+
+/**************** Illustration Image ****************/
+
+.illustration {
+  border-radius: 1rem;
+  padding-bottom: 1rem;
+  width: 27rem;
+}
+
+/**************** Headings & paragraph ****************/
+
+h1 {
+  color: #1f2f56;
+  font-size: 1.75rem;
+  font-weight: 900;
+  padding-top: 0.5rem ;
+}
+
+h4 {
+  color: #1f2f56;
+  font-weight: 700;
+  margin: 0 0 0.25rem;
+}
+
+p {
+  color: #7b879d;
+  font-size: 16px;
+  margin: auto;
+  width: 80%;
+}
+
+h4 a {
+  color: #7b879d;
+  font-size: 1rem;
+  font-weight: 900;
+  margin: 2.18rem 0 3.125rem;
+  text-decoration: none;
+}
+
+h4 a:active {
+  color: #1f2f56;
+}
+
+/*********************** Order details ***********************/
+
+.order-details {
+  background-color: #f5f7ff;
+  border-radius: 0.8rem;
+  display: grid;
+  grid-template-columns: max-content max-content max-content;
+  align-items: center;
+  margin: 1.25rem 2.80rem 2rem 2.80rem;
+  padding: 1.25rem;
+}
+
+.order-tag {
+  padding: 0 5.625rem 0 1.25rem;
+}
+
+.price {
+  margin: 0;
+}
+
+.order-detail-change {
+  color: #382AE1;
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+.order-detail-change:hover {
+  filter: brightness(200%);
+  text-decoration: none;
+}
+
+/*********************** Button ***********************/
+
+.btn {
+  color: #fff;
+  background-color:#382AE1;
+  border-style: none;
+  border-radius: 0.8rem;
+  box-shadow: 0 1.5rem 1.5rem #d6e0e2;
+  cursor: pointer;
+  font-size: 0.75rem;
+  font-weight: 900;
+  padding: 1rem 6.5rem;
+}
+
+.btn:hover {
+  filter: brightness(200%);
+}
+
+/**************** Order cancel ****************/
+
+.order-cancel {
+  margin: 2.2rem 0 2.75rem;
+}
+
+.order-cancel a:hover {
+  color: #1f2f56;
+}
+
+/**************** Media Query ****************/
+
+@media (max-width: 767px) {
+  body {
+    background-color: #e0e8ff;
+    background-image: url(images/pattern-background-mobile.svg);
+    background-repeat: no-repeat;
+  }
+
+}
